@@ -17,7 +17,7 @@ This repository serves as my organized workspace for all Cloud Computing course 
 ## 👤 Student Information
 
 - **Name:** John Rey F. Quiming
-- **Course/Section:** BS Information Technology
+- **Course/Section:** BSIT-4A
 - **Instructor:** JENKIELYN TORRES
 - **School Year:** 2026–2027
 
