@@ -35,3 +35,8 @@ AWS Identity and Access Management (IAM) controls access to AWS resources by man
 ## 6. Typical Enterprise Use Cases
 
 AWS can be used by enterprises for application hosting, data storage and backup, website and e-commerce platforms, database systems, disaster recovery, data analytics, and scalable business applications. Organizations can combine multiple AWS services to build complete cloud-based systems.
+
+## Sources
+
+- Amazon Web Services (AWS) — AWS Documentation: https://aws.amazon.com/documentation-overview/
+- Amazon Web Services (AWS) — AWS Services Overview: https://aws.amazon.com/
