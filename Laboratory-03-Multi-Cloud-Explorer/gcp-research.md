@@ -39,3 +39,8 @@ Google Kubernetes Engine is a managed Kubernetes service used to deploy, manage,
 ## 6. Typical Enterprise Use Cases
 
 Google Cloud can be used by enterprises for web and application hosting, data analytics, artificial intelligence and machine learning, database management, containerized applications, global applications, backup, and large-scale data processing. Organizations can combine Google Cloud services to build scalable and highly available systems.
+
+## Sources
+
+- Google Cloud — Google Cloud Documentation: https://docs.cloud.google.com/docs
+- Google Cloud — Google Cloud Overview: https://docs.cloud.google.com/docs/overview
