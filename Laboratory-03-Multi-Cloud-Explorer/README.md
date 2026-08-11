@@ -48,3 +48,27 @@ Screenshots and evidence for this laboratory activity are stored in the `screens
 - `cloud-platform-comparison.md` – Cloud platform comparison and service matching
 - `client-recommendations.md` – Client recommendations and decision matrix
 - `reflection.md` – Mission reflection
+
+## Checkpoint 7 – Linux Investigation
+
+### KillerCoda Linux Server Information
+
+The Linux investigation was completed using the Ubuntu 24.04.4 playground in KillerCoda.
+
+| Information | Result |
+|---|---|
+| Operating System | Ubuntu 24.04.4 LTS |
+| CPU | 1 CPU – Intel Xeon E312xx (Sandy Bridge, IBRS update) |
+| Memory | 1.9 GiB RAM |
+| Disk Space | 19G total, 5.4G used, 13G available |
+| Mount Point | `/` |
+
+### Cloud Services That Could Host the Linux Server
+
+| Cloud Provider | Service | Purpose |
+|---|---|---|
+| AWS | Amazon EC2 | Provides virtual Linux servers that can run applications and workloads. |
+| Microsoft Azure | Azure Virtual Machines | Provides virtual machines capable of running Linux operating systems. |
+| Google Cloud | Compute Engine | Provides configurable virtual machines for running Linux workloads. |
+
+The Linux server could be migrated to any of the three major cloud platforms because AWS, Azure, and Google Cloud all provide virtual machine services that support Linux workloads. The appropriate service would depend on the client's requirements, including performance, cost, scalability, networking, and other cloud needs.
