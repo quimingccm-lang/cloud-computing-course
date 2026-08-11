@@ -39,3 +39,8 @@ Microsoft Entra ID is Microsoft's cloud-based identity and access management ser
 ## 6. Typical Enterprise Use Cases
 
 Azure can be used by enterprises for application hosting, Windows Server workloads, database systems, business applications, data analytics, artificial intelligence, backup and disaster recovery, and hybrid cloud environments. Organizations can also use Azure to extend existing Microsoft-based infrastructure into the cloud.
+
+## Sources
+
+- Microsoft Azure — Azure Documentation: https://learn.microsoft.com/azure/
+- Microsoft Azure — Azure: https://azure.microsoft.com/
