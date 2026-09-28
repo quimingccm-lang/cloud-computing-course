@@ -1,6 +1,10 @@
 // JavaScript Document
 
+/*
 
+Group8 Gold interactive behavior
+
+*/
 
 
 // Navigation scroll effect
